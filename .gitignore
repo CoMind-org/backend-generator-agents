@@ -5,3 +5,9 @@ venv
 /venv
 ./venv
 __pycache__
+test
+./test
+/test
+./test/*
+test/*
+test/
